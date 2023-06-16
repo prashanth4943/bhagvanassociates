@@ -1,0 +1,185 @@
+html,body{
+    overflow-x: hidden;
+}
+
+/*jssor slider loading skin spin css*/
+.jssorl-009-spin img {
+    animation-name: jssorl-009-spin;
+    animation-duration: 1.6s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes jssorl-009-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+.jssora061 {display:block;position:absolute;cursor:pointer;}
+.jssora061 .a {fill:none;stroke:#fff;stroke-width:360;stroke-linecap:round;}
+.jssora061:hover {opacity:.8;}
+.jssora061.jssora061dn {opacity:.5;}
+.jssora061.jssora061ds {opacity:.3;pointer-events:none;}
+
+.html{
+    overflow: hidden;
+}
+.slider{
+    background-color: rgb(20, 40, 99);
+}
+.navbar-nav{
+    background: transparent;
+}
+.about{
+    position: relative;
+}
+.about-text{
+    padding: 0px 10px 10px 10px ;
+    text-align: center;
+    position: absolute;
+    bottom: 13px;
+    color: #fff;
+}
+.about-head{
+    text-align: center;
+    position: absolute;
+    bottom: 158px;
+    left: 120px;
+    color: white;
+}
+#welcome{
+    text-align: center;
+}
+#name{
+    text-align: center;
+}
+.detail{
+    text-align: center;
+    padding: 4px;
+}
+#team{
+    text-align: center;
+}
+.link{
+    text-align: center;
+    padding-bottom: 5px;
+}
+#our {
+    text-align: center;
+}
+.services{
+    background-color: rgb(221, 229, 243);
+}
+.service-head{
+    text-align: center;
+    padding-left: px;
+    margin-bottom: 0;
+}
+.services p{
+    text-align: center;
+    padding-top: 10px;
+} 
+
+#h1{
+padding-bottom: 18px;
+padding-top: 20px;
+}
+#h2{
+padding-bottom: 10px;
+}
+#h3{
+padding-top: 15px;
+padding-bottom: 10px;
+}
+#h4{
+padding-bottom: 10px;
+}
+#h5{
+padding-bottom: 20px;
+padding-top: 12px;
+}
+#h6{
+    padding-top: 10px;
+padding-bottom: 10px;
+}
+.blog{
+    padding-top: 15px;
+    position: relative;
+}
+.blog-detail-1{
+    text-align: center;
+    border-left: 2px solid blueviolet;
+    padding-left: 70px;
+}
+.blog button{
+    background-color: rgb(24, 50, 120);
+    padding: 10px 25px;
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    top: 260px;
+    left: 550px;
+}
+.blog-detail-2{
+    position: absolute;
+    top: 50px;
+    padding: 20px;
+}
+.content{
+    border-width: px;
+    height: 300px;
+    background-color: #fff;
+    margin: 5px;
+    padding: 20px;
+    width: 300px;
+}
+.serve {
+    text-align: center;
+}
+.testimonial{
+    background-image:url("C:Users/PRASHANTH/OneDrive/Desktop/baghvan associates/img/test_bg.png");
+    height: 350px;
+}
+.test{
+    padding-top: 40px;
+    padding-left: 20px;
+}
+.clients h5{
+ 
+}
+.footer{
+    background-color: rgb(42, 20, 102);
+    color: #fff;
+    position: relative;
+}
+iframe{
+    padding-top: 20px;
+    width: 270px;
+    height: 220px;
+}
+.form{
+    background-color: #fff;
+    color: rgb(47, 47, 205);
+    border: 2px solid rgb(240, 235, 235);
+    border-radius: 15px;
+    width: 370px;
+    height: 300px;
+    font-size:20px;
+    position: absolute;
+    bottom: 60px;
+}
+.form-div{
+    border: 2px solid rgb(232, 228, 228);
+    position: absolute;
+    background-color: #fff;
+    color: rgb(41, 41, 217);
+    border-radius: 10px;
+    bottom: 100px;
+    width: 370px;
+}
+.form-div form{
+    font-size: 25px;
+}
+@media screen (map-width:450px) {
+      
+} 
